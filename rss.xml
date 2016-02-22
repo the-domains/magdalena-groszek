@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Magdalena Groszek]]></title>
         <description><![CDATA[Magdalena Groszek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/magdalena-groszek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 00:23:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 00:24:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/magdalena-groszek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>this is random text</p>]]></description>
-            <link>undefinedaa9e0a7b-7191-4239-ab3d-675983c2c875/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/403e10e5-23f5-4a98-8fab-006495256e44.jpg">]]></description>
+            <link>https://thegrid.ai/magdalena-groszek/aa9e0a7b-7191-4239-ab3d-675983c2c875/index.html</link>
             <guid isPermaLink="false">aa9e0a7b-7191-4239-ab3d-675983c2c875</guid>
-            <pubDate>Mon, 22 Feb 2016 00:13:12 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 00:16:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
