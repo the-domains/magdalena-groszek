@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Magdalena Groszek]]></title>
-        <description><![CDATA[Magdalena Groszek]]></description>
+        <title><![CDATA[test]]></title>
+        <description><![CDATA[test]]></description>
         <link>https://thegrid.ai/magdalena-groszek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 00:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 00:33:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/magdalena-groszek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/403e10e5-23f5-4a98-8fab-006495256e44.jpg">]]></description>
             <link>https://thegrid.ai/magdalena-groszek/aa9e0a7b-7191-4239-ab3d-675983c2c875/index.html</link>
             <guid isPermaLink="false">aa9e0a7b-7191-4239-ab3d-675983c2c875</guid>
-            <pubDate>Mon, 22 Feb 2016 00:16:45 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 00:33:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
