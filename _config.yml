@@ -1,20 +1,4 @@
-name: Magdalena Groszek
-favicon: null
-layout_spectrum: 0.998222284950316
 typography_spectrum: 0.6462154053151608
-title: test
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#690004'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6301112161017954
   saturation: 0.8827907294034958
   rhythmicContrast: 0.25085047679021955
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.998222284950316
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Magdalena Groszek
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Art Music Therapy
 purpose: []
